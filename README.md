@@ -8,10 +8,10 @@ I'm **Arman**, a **Computer Science student** passionate about learning and buil
 - 🌱 Currently improving my **problem-solving** and **development skills**
 
 ---
-
-### 💡 Tech I’m Learning  
-**Python | Java | C | C++ | HTML | CSS | Flask | Git | GitHub**
-
+### 📚 Goals  
+- 🧠 Strengthen my **problem-solving** and **DSA knowledge**  
+- 🌍 Build a few solid **full-stack projects**  
+- 💼 Prepare for **future internships** and **open-source contributions**
 ---
 
 ### 😄 Fun Facts  
