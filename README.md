@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey there! 👋  
 
-<!--
-**armanmahmud28/armanmahmud28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Arman**, a **Computer Science student** passionate about learning and building cool stuff with code.  
 
-Here are some ideas to get you started:
+- 🎓 Studying in my **5th trimester**  
+- 💻 Learning **DSA** and **Python-based Web Development**  
+- 🚀 Exploring new software and tools every day  
+- 🌱 Currently improving my **problem-solving** and **development skills**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 Tech I’m Learning  
+**Python | Java | C | C++ | HTML | CSS | Flask | Git | GitHub**
+
+---
+
+### 😄 Fun Facts  
+- ☕ I love **black coffee** — it’s my secret debugging partner!  
+- 🎬 I don’t watch many movies or series… probably because I end up debugging instead 😅  
+
+---
+
+> *"Keep learning, keep building."*
+
