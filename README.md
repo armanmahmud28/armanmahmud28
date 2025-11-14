@@ -15,7 +15,7 @@ I'm **Arman**, a **Computer Science student** passionate about learning and buil
 ---
 
 ### 😄 Fun Facts  
-- ☕ I love **black coffee**(**Without Suger**) — it’s my secret debugging partner!  
+- ☕ I love **black coffee**(**Without Sugar**) — it’s my secret debugging partner!  
 - 🎬 I don’t watch many movies or series… probably because I end up debugging instead 😅  
 
 ---
