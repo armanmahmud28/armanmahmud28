@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004482,100:00599C&height=200&section=header&text=Arman%20Mahmud&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+</div>
+
 # Hey there! 👋  
 
 I'm **Arman**, a **Computer Science student** passionate about learning and building cool stuff with code.  
@@ -8,6 +12,11 @@ I'm **Arman**, a **Computer Science student** passionate about learning and buil
 - 🌱 Currently improving my **problem-solving** and **development skills**
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=armanmahmud28E&color=0e75b6&style=flat-square" alt="Profile Views"/>
+</div>
+
 ### 📚 Goals  
 - 🧠 Strengthen my **problem-solving** and **DSA knowledge**  
 - 🌍 Build a few solid **full-stack projects**  
@@ -20,6 +29,10 @@ I'm **Arman**, a **Computer Science student** passionate about learning and buil
 ![C++](https://img.shields.io/badge/C++-004482?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🌐 Web Technologies
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
