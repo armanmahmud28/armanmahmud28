@@ -34,13 +34,14 @@ I'm **Arman**, a **Computer Science student** passionate about learning and buil
 ### 🌐 Web Technologies
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ### 🛠 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-<h2>Life Going</h2>
+<h2>The Grind 🔥</h2>
 <div align="center">
   <img height="200" src="https://camo.githubusercontent.com/833e523478a2cda6d8eb5ff8e8a8c256afd8de81a4d38068877d1bb4d9fbbb2e/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784d6d526c4d445270636a467a5a4842344e485a784d574d314f576b794e6e466a4e324931624468324e485633626d55775a33526f64695a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f484347657a4770765174447239336a7231542f67697068792e676966"  />
 </div>
