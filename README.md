@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:004482,100:00599C&height=200&section=header&text=Arman%20Mahmud&fontSize=50&fontColor=white&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Problem%20Solver%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
-</div>
+# M. ARMAN MAHMUD 🚀
 
-# Hey there! 👋  
+## About Me 🌞  
 
-I'm **Arman**, a **Computer Science student** passionate about learning and building cool stuff with code.  
+I'm a **Computer Science student** passionate about learning and building cool stuff with code.  
 
 - 🎓 Studying in my **7th trimester**  
 - 💻 Learning **∞** 
@@ -13,9 +11,6 @@ I'm **Arman**, a **Computer Science student** passionate about learning and buil
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=armanmahmud28E&color=0e75b6&style=flat-square" alt="Profile Views"/>
-</div>
 
 ### 📚 Goals  
 - 🧠 Strengthen my **problem-solving** and **DSA knowledge**  
