@@ -4,7 +4,7 @@
 
 I'm a **Computer Science student** passionate about learning and building cool stuff with code.  
 
-- 🎓 Studying in my **7th trimester**  
+- 🎓 Studying in my **8th trimester**  
 - 💻 Learning **∞** 
 - 🚀 Exploring new software and tools every day  
 - 🌱 Currently improving my **problem-solving** and **development skills**
