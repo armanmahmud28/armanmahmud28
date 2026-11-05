@@ -2,7 +2,7 @@
 
 ## About Me 🌞  
 
-I'm a **Computer Science student** passionate about learning and building cool stuff with code.  
+I'm a **Computer Science & Engineering(CSE) student** passionate about learning and building cool stuff with code.  
 
 - 🎓 Studying in my **8th trimester**  
 - 💻 Learning **∞** 
